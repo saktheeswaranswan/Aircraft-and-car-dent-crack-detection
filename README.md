@@ -1,5 +1,5 @@
 new
-
+https://universe.roboflow.com/ai-assistant-for-general-visual-inspection-of-airplanes/aircraft-skin-defects
 https://universe.roboflow.com/ai-assistant-for-general-visual-inspection-of-airplanes/aircraft-skin-defects
 
 https://universe.roboflow.com/ai-assistant-for-general-visual-inspection-of-airplanes/aircraft-skin-defects
